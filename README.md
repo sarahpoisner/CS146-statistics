@@ -1,4 +1,4 @@
-# CS146: Computational Methods forBayesian Statistics
+# CS146: Computational Methods for Bayesian Statistics
 ## Problem Set 2
 In this assignment for my CS146 class at Minerva University, I estimated the number of calls per minute at a call center for a given hour by finding the 98% confidence interval over the posterior distribution with a gamma prior. I used PyStan to accomplish this. 
 
